@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,12 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Wed, 10 Sep 2025 19:44:17 GMT | [GraphQL Explained Simply: Why It’s a Game-Changer for API Endpo...](https://freedium.cfd/https://medium.com/p/9d0d8a529804) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 18:37:56 GMT | [Subdomain Discovery and Enumeration: From Noise to Valuable Targe...](https://freedium.cfd/https://medium.com/p/bbc42b644b74) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 17:22:55 GMT | [Impactful Google Dorking on your Target](https://freedium.cfd/https://medium.com/p/ce2f68862ae8) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 13:10:51 GMT | [I Found My First Critical Bug Using SQL Injection Recon](https://freedium.cfd/https://medium.com/p/6a3e2f9d89f5) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 12:43:06 GMT | [How I Discovered Hidden JSON & GraphQL Requests and Won a Bug Bou...](https://freedium.cfd/https://medium.com/p/dc0d72b4aba4) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 20:54:18 GMT | [ Next.js Middleware SSRF via Header Injection](https://freedium.cfd/https://medium.com/p/6cf03b58a90d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 21:14:39 GMT | [Cross-Site Scripting (XSS) remains one of the most common and dan...](https://freedium.cfd/https://medium.com/p/9b325b9b2c39) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 16:52:53 GMT | [They Said XSS Was Dead… Then I Got Paid  (My First Bounty in 20...](https://freedium.cfd/https://medium.com/p/6eb8d27c6c1a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 21:43:01 GMT | [Race Conditions Are Not Just for Bypassing Plan Limits!!](https://freedium.cfd/https://medium.com/p/1cd63aa0d6f7) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
