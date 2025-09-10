@@ -1,9 +1,9 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
@@ -20,7 +20,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dork: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-pentest: XML syntax error on line 1: expected element name after <
@@ -62,22 +62,21 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Wed, 10 Sep 2025 09:54:03 GMT | [Writing Effective Bug Reports: Tips from a Pro Bug Bounty Hunter](https://freedium.cfd/https://medium.com/p/b2d2842129ed) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 17:22:55 GMT | [Impactful Google Dorking on your Target](https://freedium.cfd/https://medium.com/p/ce2f68862ae8) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 11:36:11 GMT | [Bughuntig is going somewhere else direction](https://freedium.cfd/https://medium.com/p/9852b3b72e4d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 12:43:06 GMT | [How I Discovered Hidden JSON & GraphQL Requests and Won a Bug Bou...](https://freedium.cfd/https://medium.com/p/dc0d72b4aba4) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 11:04:11 GMT | [Small type of Classic idor i find](https://freedium.cfd/https://medium.com/p/416a11b1fe59) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 09:33:58 GMT | [Exploiting Business Logic Flaws: How I Bought Products for $1 (Et...](https://freedium.cfd/https://medium.com/p/6f21f883cd7a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 16:52:53 GMT | [They Said XSS Was Dead… Then I Got Paid  (My First Bounty in 20...](https://freedium.cfd/https://medium.com/p/6eb8d27c6c1a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 13:10:51 GMT | [I Found My First Critical Bug Using SQL Injection Recon](https://freedium.cfd/https://medium.com/p/6a3e2f9d89f5) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 10 Sep 2025 12:15:45 GMT | [The Ultimate Hacker’s Bash Cheat Sheet (20+ Advanced One-Liners...](https://freedium.cfd/https://medium.com/p/418385ed1e35) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 29 Aug 2025 04:43:21 GMT | [9. The Secret Power of Google Dorking](https://freedium.cfd/https://medium.com/p/736325566220) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Thu, 21 Aug 2025 10:04:08 GMT | [Dork Like a Demon: FOFA Edition for Hackers & Bug Bounty Hunters ](https://freedium.cfd/https://medium.com/p/a81f154d51d5) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Sun, 22 Jun 2025 12:31:36 GMT | [️ Day 5/30 Google Dorking: The Hacker’s Open Secret for Findi...](https://freedium.cfd/https://medium.com/p/f6d11d586884) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Mon, 07 Jul 2025 14:05:53 GMT | [Google Dorking](https://freedium.cfd/https://medium.com/p/435f81cbf592) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Sat, 21 Jun 2025 19:52:17 GMT | [ Google Dorking: Smart Search or a Digital Superpower?](https://freedium.cfd/https://medium.com/p/8ecefd692d0b) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 11 Jul 2025 03:48:37 GMT | [Why the FOFA dorking is so important](https://freedium.cfd/https://medium.com/p/cdfc510ac976) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Sat, 16 Aug 2025 17:33:22 GMT | [PDF.JS Viewer Endpoint Dorking](https://freedium.cfd/https://medium.com/p/03e3a68e0acf) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Wed, 06 Aug 2025 18:09:04 GMT | [Making dorks from HTML Comment](https://freedium.cfd/https://medium.com/p/b4794b54d596) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Tue, 05 Aug 2025 07:25:48 GMT | [CXF Service List Endpoint Recon](https://freedium.cfd/https://medium.com/p/de898ff3b03a) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Sat, 23 Aug 2025 09:23:31 GMT | [URLScan Dorking to find WordPress Registration Endpoint](https://freedium.cfd/https://medium.com/p/f005884786d0) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
+| Wed, 10 Sep 2025 14:27:08 GMT | [iPhone Air — The Return of A Single-Camera Luxury Phone](https://freedium.cfd/https://medium.com/p/13ba07e370a7) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 14:06:48 GMT | [Generative AI: Powering the Next Trillion-Dollar Economy](https://freedium.cfd/https://medium.com/p/731e94234cb5) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 17:42:39 GMT | [ Day 20: Types of Databases:- SQL vs NoSQL & Beyond!](https://freedium.cfd/https://medium.com/p/cde51a85127a) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 17:26:37 GMT | [The U.S. HIRE Act: What Indian IT and Global Businesses Must Know...](https://freedium.cfd/https://medium.com/p/cdd20d44cbae) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 13:51:53 GMT | [Effective Leadership in Organization](https://freedium.cfd/https://medium.com/p/22d6d487c825) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 17:17:14 GMT | [Drowning in Alerts? How to Reduce False Positives in Security Det...](https://freedium.cfd/https://medium.com/p/dde394ca9eff) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 14:18:27 GMT | [The Great Indian IT Debate: From Survival to Supremacy to a Strat...](https://freedium.cfd/https://medium.com/p/847bdcb087dc) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 14:20:49 GMT | [Finding the Right Digital Marketing Partner for Your Ambattur Tec...](https://freedium.cfd/https://medium.com/p/f05902c7f64e) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Wed, 10 Sep 2025 12:37:01 GMT | [Android RE Capture the Flag-CTF](https://freedium.cfd/https://medium.com/p/2b02c9ce936d) | [information-technology](https://medium.com/feed/tag/information-technology) | Yes | Yes |
+| Sat, 16 Aug 2025 08:00:03 GMT | [A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data](https://freedium.cfd/https://medium.com/p/57ef6e0325ca) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Mon, 04 Aug 2025 02:17:48 GMT | [The Public Exposure Of Your AI Conversations: Some Facts](https://freedium.cfd/https://medium.com/p/03ca20c1ba53) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Tue, 02 Sep 2025 15:53:08 GMT | [ Google Dorking: The Hidden Side of Search Engines](https://freedium.cfd/https://medium.com/p/75d8d1153d17) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Wed, 13 Aug 2025 13:14:30 GMT | [How to Find Any Information Using Google Dorking in 2025](https://freedium.cfd/https://medium.com/p/3e98faaa49f2) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Sun, 17 Aug 2025 16:49:46 GMT | [Mastering Google Dorking: Search Operators for Deep Recon & Bug B...](https://freedium.cfd/https://medium.com/p/d399963db955) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Mon, 04 Aug 2025 05:56:23 GMT | [Google dorking/Hacking](https://freedium.cfd/https://medium.com/p/b4251a8b7a8f) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Sun, 03 Aug 2025 09:58:40 GMT | [Competitive intelligence](https://freedium.cfd/https://medium.com/p/63986c6f9aaa) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Fri, 01 Aug 2025 20:33:57 GMT | [OpenAI Data Leakage: When AI Chats Go Public](https://freedium.cfd/https://medium.com/p/d3e07c680a10) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Sat, 16 Aug 2025 17:33:22 GMT | [PDF.JS Viewer Endpoint Dorking](https://freedium.cfd/https://medium.com/p/03e3a68e0acf) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
