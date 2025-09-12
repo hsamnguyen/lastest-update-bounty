@@ -1,4 +1,3 @@
-Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
@@ -63,13 +62,23 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
+| Fri, 12 Sep 2025 07:25:38 GMT | [The Growing Need For Event Security Services in Singapore](https://freedium.cfd/https://medium.com/p/7fb19da5bdbf) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 06:46:50 GMT | [Server Management: Definition, Types, Advantages, and Disadvantag...](https://freedium.cfd/https://medium.com/p/d9197eca5b9d) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 05:33:01 GMT | [Guardians of the Network: Cyber Security Details](https://freedium.cfd/https://medium.com/p/f0880daba1d9) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 05:26:35 GMT | [The Devil in the Details: Cyber Security](https://freedium.cfd/https://medium.com/p/42ff921051a5) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 07:31:31 GMT | [Diagnosing Cloudflare Security Events with CRS Rule Intelligence:...](https://freedium.cfd/https://medium.com/p/e61b583b56b0) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 07:16:51 GMT | [Authentication with OpenID Connect & OAuth2 in .NET](https://freedium.cfd/https://medium.com/p/1eb24b4a09a3) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 05:53:08 GMT | [Difference Between DVR and NVR: A Complete Guide](https://freedium.cfd/https://medium.com/p/185143bdce46) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 05:30:53 GMT | [ Deploying EpicBook on AWS: Secure Full-Stack Deployment with EC2...](https://freedium.cfd/https://medium.com/p/912d74423ad1) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 07:19:18 GMT | [MDM Software Use Cases Across Key Industries](https://freedium.cfd/https://medium.com/p/7ebe328f196e) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Fri, 12 Sep 2025 06:31:57 GMT | [Let’s Talk About Charlie Kirk’s Security And His Assassinatio...](https://freedium.cfd/https://medium.com/p/fbfa358a255f) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
 | Fri, 12 Sep 2025 07:12:58 GMT | [Meet Ghauri GUI v1 — Streamlined SQLi Scans on Windows](https://freedium.cfd/https://medium.com/p/5bb383b9f7ff) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
 | Fri, 12 Sep 2025 05:09:40 GMT | [Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in...](https://freedium.cfd/https://medium.com/p/6218e1adc444) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
 | Fri, 12 Sep 2025 00:01:44 GMT | [Wfuzz: Fuzzing Web para Pentesting y Bug Bounty](https://freedium.cfd/https://medium.com/p/81723a6b0d16) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
 | Fri, 12 Sep 2025 05:42:12 GMT | [ ZIP Slip Surprise: How I Turned a File Upload into Remote Code E...](https://freedium.cfd/https://medium.com/p/1cdad896c54c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
 | Fri, 12 Sep 2025 05:20:27 GMT | [I Bypassed a Login Page With a Single Request](https://freedium.cfd/https://medium.com/p/cf7b415b2423) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
+| Thu, 11 Sep 2025 19:34:00 GMT | [The Dark Side of Bug Bounties: Burnout & Ethical Dilemmas](https://freedium.cfd/https://medium.com/p/55e7d99ee9d3) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
 | Thu, 11 Sep 2025 18:02:16 GMT | [One Click Account Takeover: how an insecure password-reset flow +...](https://freedium.cfd/https://medium.com/p/62f1bf17821d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
 | Thu, 11 Sep 2025 18:02:01 GMT | [ El mejor camino para entrar es entender por qué otros no lo ven](https://freedium.cfd/https://medium.com/p/87c051c7011c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
 | Thu, 11 Sep 2025 16:13:22 GMT | [Case-Sensitivity Display name is worth 150$ bounty](https://freedium.cfd/https://medium.com/p/6871aab8a39c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Thu, 11 Sep 2025 19:34:00 GMT | [The Dark Side of Bug Bounties: Burnout & Ethical Dilemmas](https://freedium.cfd/https://medium.com/p/55e7d99ee9d3) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
 | Thu, 11 Sep 2025 22:11:33 GMT | [Server-Side Request Forgery (SSRF) Explained: From Basics to Adva...](https://freedium.cfd/https://medium.com/p/771aef68b415) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
