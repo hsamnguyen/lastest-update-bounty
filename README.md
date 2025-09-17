@@ -3,7 +3,6 @@ Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
@@ -11,6 +10,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax e
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Wed, 17 Sep 2025 05:32:50 GMT | [Are you really paying Google to use your information?](https://freedium.cfd/https://medium.com/p/7d75b89a26b2) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Wed, 17 Sep 2025 02:25:37 GMT | [Day 59- True Positive vs True Negative in cybersecurity for begin...](https://freedium.cfd/https://medium.com/p/606c88ccd1e0) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Wed, 17 Sep 2025 00:31:43 GMT | [Gotta Be Phreaking Kidding Me!](https://freedium.cfd/https://medium.com/p/46d01d9babfb) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Wed, 17 Sep 2025 00:18:48 GMT | [How a Single Malicious Cookie Led to Root: Dissecting the CVE-202...](https://freedium.cfd/https://medium.com/p/307c8706e82f) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Wed, 17 Sep 2025 03:32:02 GMT | [The Ripple Effect: Diving into the Salesloft Drift Supply Chain A...](https://freedium.cfd/https://medium.com/p/ec81e6ed9761) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Tue, 16 Sep 2025 23:43:58 GMT | [The Hidden Risks of Public Wi-Fi (Explained Simply)](https://freedium.cfd/https://medium.com/p/21b7a80896ca) | [information-security](https://medium.com/feed/tag/information-security) |  |  |
-| Tue, 16 Sep 2025 22:20:05 GMT | [When “Delete for Everyone” Doesn’t Delete: My Experience Re...](https://freedium.cfd/https://medium.com/p/7e9d86e74134) | [information-security](https://medium.com/feed/tag/information-security) |  |  |
-| Tue, 16 Sep 2025 22:17:51 GMT | [Securing Remote Services: Linux](https://freedium.cfd/https://medium.com/p/9eaaae4e9b29) | [information-security](https://medium.com/feed/tag/information-security) |  |  |
-| Tue, 16 Sep 2025 22:04:37 GMT | [Cybersicherheits-GRC-Framework: NIST, ISO27001, ISF (Digitaler Do...](https://freedium.cfd/https://medium.com/p/c9f260259fc9) | [information-security](https://medium.com/feed/tag/information-security) |  |  |
-| Tue, 16 Sep 2025 22:01:27 GMT | [Cyber Security GRC Framework: NIST, ISO27001, ISF (Digital Downlo...](https://freedium.cfd/https://medium.com/p/100480d11304) | [information-security](https://medium.com/feed/tag/information-security) |  |  |
+| Wed, 17 Sep 2025 05:07:29 GMT | [How to Recover a Hacked WordPress Site (Step-by-Step Guide)](https://freedium.cfd/https://medium.com/p/69e0a1cf9511) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 03:36:37 GMT | [If You Want to Be a Strong Hacker, You Must Master These Python B...](https://freedium.cfd/https://medium.com/p/5da4fe85d53a) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 02:28:28 GMT | [Airplane writeup — TryHackMe](https://freedium.cfd/https://medium.com/p/599bf07e7330) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 00:16:59 GMT | [$10,0000 AUTHENTIC PAYPAY DL PP ATM cloned cards Bank paypal Cash...](https://freedium.cfd/https://medium.com/p/1778a75b57ff) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 00:02:03 GMT | [Complete Guide to Masscan: High-Speed Port Scanning for Cybersecu...](https://freedium.cfd/https://medium.com/p/9bb4f61c6173) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 05:44:21 GMT | [Zero-Trust Architecture: Why It’s Going Mainstream](https://freedium.cfd/https://medium.com/p/edc937397ed7) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 05:32:33 GMT | [16. Real Bug Bounty Stories (from My Reports)](https://freedium.cfd/https://medium.com/p/52e1f7535ef7) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 00:49:11 GMT | [Stolen Data Is Never “Old” on the Dark Web](https://freedium.cfd/https://medium.com/p/05691f665eac) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Wed, 17 Sep 2025 00:20:45 GMT | [Old or Unused Breached Data Can Still Complete Full Profiles of P...](https://freedium.cfd/https://medium.com/p/459e47ac8418) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Tue, 16 Sep 2025 23:25:09 GMT | [Why There Is No Trace of Hacking on Your Servers But Still You Go...](https://freedium.cfd/https://medium.com/p/203aa6c96161) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
