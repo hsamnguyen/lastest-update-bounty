@@ -4,6 +4,7 @@ Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax err
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
@@ -11,7 +12,6 @@ Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on lin
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
@@ -19,6 +19,9 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML synta
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dork: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-pentest: XML syntax error on line 1: expected element name after <
@@ -60,42 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Tue, 14 Oct 2025 00:27:51 GMT | [What Exactly Is Threat Modeling?](https://freedium.cfd/https://medium.com/p/09d99118e2aa) | [application-security](https://medium.com/feed/tag/application-security) |  | Yes |
-| Tue, 14 Oct 2025 03:25:29 GMT | [Supabase vs Firebase: Which Backend Truly Fits Your App in 2025](https://freedium.cfd/https://medium.com/p/e2c8b52d56fe) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Tue, 14 Oct 2025 04:30:53 GMT | [Top 5 AI Video Creation Tools in 2025 — Create Stunning Vid...](https://freedium.cfd/https://medium.com/p/89cdf4156460) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Tue, 14 Oct 2025 00:48:43 GMT | [If You’re an IT Graduate and Unemployed — Try These Steps](https://freedium.cfd/https://medium.com/p/16cf62c8c116) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Tue, 14 Oct 2025 01:43:14 GMT | [SEO for Technology Companies: How to Rank #1 on Google in 2025 (E...](https://freedium.cfd/https://medium.com/p/5c985eea70e4) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Tue, 14 Oct 2025 03:56:35 GMT | [Why OPSEC Is the Red Team’s Most Underrated Tool (and How to Us...](https://freedium.cfd/https://medium.com/p/63b9ddb0eaed) | [application-security](https://medium.com/feed/tag/application-security) |  | Yes |
-| Tue, 14 Oct 2025 03:09:40 GMT | [JIT Compilation in PostgreSQL: Performance Gains for Complex AI Q...](https://freedium.cfd/https://medium.com/p/5dec84db477c) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Tue, 14 Oct 2025 02:02:41 GMT | [How I Generated a Graduate-Level Physics Dataset and Fine-Tuned Q...](https://freedium.cfd/https://medium.com/p/3c753cea3e73) | [information-technology](https://medium.com/feed/tag/information-technology) |  | Yes |
-| Sun, 28 Sep 2025 12:30:54 GMT | [Google Dorking — Tryhackme Walkthrough](https://freedium.cfd/https://medium.com/p/bca77f989256) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Wed, 06 Aug 2025 18:09:04 GMT | [Making dorks from HTML Comment](https://freedium.cfd/https://medium.com/p/b4794b54d596) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Mon, 13 Oct 2025 13:09:17 GMT | [Why I Built an Open-Source Kit to Demystify ASVS Compliance](https://freedium.cfd/https://medium.com/p/a9663b9b0013) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Mon, 13 Oct 2025 05:56:58 GMT | [Portswigger Web Security Academy \| DOM-based Vulnerabilities Lab...](https://freedium.cfd/https://medium.com/p/65e26a0f8639) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Sat, 23 Aug 2025 09:23:31 GMT | [URLScan Dorking to find WordPress Registration Endpoint](https://freedium.cfd/https://medium.com/p/f005884786d0) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Tue, 05 Aug 2025 07:25:48 GMT | [CXF Service List Endpoint Recon](https://freedium.cfd/https://medium.com/p/de898ff3b03a) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Mon, 13 Oct 2025 18:50:11 GMT | [Python Mastery: Automating Everyday Tasks Like a Pro](https://freedium.cfd/https://medium.com/p/12d3abcd236d) | [information-technology](https://medium.com/feed/tag/information-technology) |  |  |
-| Sat, 11 Oct 2025 00:28:47 GMT | [Google Dorking for Beginners: The Search Tricks Investigators Act...](https://freedium.cfd/https://medium.com/p/0fa98cfef5f4) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Thu, 11 Sep 2025 22:20:14 GMT | [It’s Coming: DorkFi Delivers PreFi Rewards Surge](https://freedium.cfd/https://medium.com/p/3634e5bfec7c) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 29 Aug 2025 04:43:21 GMT | [9. The Secret Power of Google Dorking](https://freedium.cfd/https://medium.com/p/736325566220) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Mon, 13 Oct 2025 21:24:20 GMT | [BehindTheScreens: The Cybersecurity Landscape This Week — B...](https://freedium.cfd/https://medium.com/p/432ee970ecd4) | [information-technology](https://medium.com/feed/tag/information-technology) |  |  |
-| Sat, 11 Oct 2025 22:24:55 GMT | [Your Apps Are Spying on You (And You Gave Them Permission)](https://freedium.cfd/https://medium.com/p/8b4f036b7157) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Fri, 10 Oct 2025 03:37:16 GMT | [3rd party PII Leak OSINT](https://freedium.cfd/https://medium.com/p/75b5f236e3e5) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Tue, 07 Oct 2025 17:19:31 GMT | [Hidden Secrets: Advanced Google Dorking on GitHub’s raw.githubu...](https://freedium.cfd/https://medium.com/p/675374870756) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Mon, 06 Oct 2025 06:58:34 GMT | [OSINT: Google Dorking Hacks: The X-Ray Vision for Google Search](https://freedium.cfd/https://medium.com/p/8c6cd8335ff2) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Thu, 11 Sep 2025 19:28:19 GMT | [Google Dorking Tricks: Uncovering Hidden Risks on the Web](https://freedium.cfd/https://medium.com/p/71d8f140ba29) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Sat, 16 Aug 2025 17:33:22 GMT | [PDF.JS Viewer Endpoint Dorking](https://freedium.cfd/https://medium.com/p/03e3a68e0acf) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 11 Jul 2025 03:48:37 GMT | [Why the FOFA dorking is so important](https://freedium.cfd/https://medium.com/p/cdfc510ac976) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 10 Oct 2025 23:17:48 GMT | [Autenticação Keyless na OCI: Implementando um Backup de Vídeos...](https://freedium.cfd/https://medium.com/p/381aed255c96) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Wed, 08 Oct 2025 14:02:06 GMT | [Part 9: Google Hacking Database Explained: Dorking Your Way to Sm...](https://freedium.cfd/https://medium.com/p/5f31a862fd65) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Mon, 29 Sep 2025 11:49:06 GMT | [Tools for Penetration Testing](https://freedium.cfd/https://medium.com/p/4f06fb343116) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Tue, 02 Sep 2025 15:53:08 GMT | [ Google Dorking: The Hidden Side of Search Engines](https://freedium.cfd/https://medium.com/p/75d8d1153d17) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Sun, 22 Jun 2025 12:31:36 GMT | [️ Day 5/30 Google Dorking: The Hacker’s Open Secret for Findi...](https://freedium.cfd/https://medium.com/p/f6d11d586884) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Mon, 13 Oct 2025 20:54:47 GMT | [Why Curiosity Is the Best Security Tool We Have](https://freedium.cfd/https://medium.com/p/c3b2832efb9f) | [information-technology](https://medium.com/feed/tag/information-technology) |  |  |
-| Mon, 13 Oct 2025 19:49:15 GMT | [Beyond the Firewall: 6 Steps to Stop Attackers From Walking Into ...](https://freedium.cfd/https://medium.com/p/a7ddd785bfbb) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Mon, 13 Oct 2025 19:47:16 GMT | [The Complete Beginner’s Guide to CMMC Compliance (2025 Edition)](https://freedium.cfd/https://medium.com/p/74d6aa22957a) | [information-technology](https://medium.com/feed/tag/information-technology) |  |  |
-| Mon, 13 Oct 2025 11:05:37 GMT | [Why One Old Hikvision Endpoint Can Break Your Compliance](https://freedium.cfd/https://medium.com/p/9592cb5b6ed8) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Mon, 13 Oct 2025 11:03:37 GMT | [Top Security Audit Mistakes Businesses Make — and How to Av...](https://freedium.cfd/https://medium.com/p/3635e9a2c9f5) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Wed, 10 Sep 2025 21:14:45 GMT | [Kittens and Code: Google Dorks for Ethical Hackers](https://freedium.cfd/https://medium.com/p/732dcb742d57) | [google-dorking](https://medium.com/feed/tag/google-dorking) |  |  |
-| Thu, 21 Aug 2025 10:04:08 GMT | [Dork Like a Demon: FOFA Edition for Hackers & Bug Bounty Hunters ](https://freedium.cfd/https://medium.com/p/a81f154d51d5) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Mon, 07 Jul 2025 14:05:53 GMT | [Google Dorking](https://freedium.cfd/https://medium.com/p/435f81cbf592) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
+| Sat, 06 Sep 2025 10:46:29 GMT | [Understanding XSS Vulnerabilities](https://freedium.cfd/https://medium.com/p/8ddc5aadeb37) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 31 Aug 2025 17:14:03 GMT | [Reflected XSS in Login Form (Email & Password Fields) Vvveb CMS v...](https://freedium.cfd/https://medium.com/p/18800186804d) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 12 Oct 2025 15:44:20 GMT | [Bypass CSRF Prevention with Cross Site Scripting (XSS)](https://freedium.cfd/https://medium.com/p/040162938477) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 05 Oct 2025 07:34:59 GMT | [Intro to Cross-site Scripting Tryhackme Walkthrough](https://freedium.cfd/https://medium.com/p/88cf18ca2a99) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sat, 04 Oct 2025 13:31:52 GMT | [Reflected XSS in Parser Endpoint — $366 Bounty Earned](https://freedium.cfd/https://medium.com/p/28ca95251ab2) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Tue, 30 Sep 2025 17:32:43 GMT | [XSS Attacks: Understanding and Preventing Cross-Site Scripting](https://freedium.cfd/https://medium.com/p/cf2a2027bc59) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Thu, 25 Sep 2025 17:45:04 GMT | [Walkthrough of XSS Challenges (by yamagata21)](https://freedium.cfd/https://medium.com/p/6e43c388235f) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Tue, 23 Sep 2025 05:35:22 GMT | [Protecting against cross-site scripting with trusted types](https://freedium.cfd/https://medium.com/p/94f0b3c32129) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 14 Sep 2025 18:14:51 GMT | [Understanding Cross-Site Scripting (XSS) Vulnerabilities](https://freedium.cfd/https://medium.com/p/5a49375867f1) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Wed, 08 Oct 2025 03:53:34 GMT | [Beyond alert(1): The Real-World Dangers of Cross-Site Scripting (...](https://freedium.cfd/https://medium.com/p/1fdbc0a8d956) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
