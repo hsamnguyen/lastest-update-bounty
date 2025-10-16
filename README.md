@@ -2,7 +2,6 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
@@ -11,6 +10,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax e
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Thu, 16 Oct 2025 16:06:06 GMT | [Project 63: Safeguarding Responsible Transparency in Puerto Rico](https://freedium.cfd/https://medium.com/p/43e27639a824) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 15:30:10 GMT | [✍️ The Future Is Signed Digitally: Exploring the Booming Digi...](https://freedium.cfd/https://medium.com/p/df52bca0e865) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 14:00:17 GMT | [Turns Out Cybersecurity Is Way More Intense Than I Thought —�...](https://freedium.cfd/https://medium.com/p/dc281d939b3d) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 13:13:58 GMT | [Trending CVEs this week: Oracle EBS zero-days, Redis Lua RCE and ...](https://freedium.cfd/https://medium.com/p/149cf730ea8f) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 15:47:31 GMT | [\[ SOC Alert => Suspicious Mshta Behavior \] by LetsDefend / Even...](https://freedium.cfd/https://medium.com/p/2cb5f846198e) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 14:43:25 GMT | [ISO 27001:2022 guide for a complete beginner (Part 2)](https://freedium.cfd/https://medium.com/p/bb1f76be5edc) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 14:36:03 GMT | [The Real Business Risk of Ignoring CMMC: Contractual Consequences...](https://freedium.cfd/https://medium.com/p/42a80887ab22) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 14:05:44 GMT | [The Insider Threat Problem — Securing Custodianship and Acc...](https://freedium.cfd/https://medium.com/p/d0f07d2b4878) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 13:42:56 GMT | [Oracle’s Shadow Student](https://freedium.cfd/https://medium.com/p/9a540207c98b) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
-| Thu, 16 Oct 2025 10:08:59 GMT | [Log Analysis — It’s Not About Knowing, It’s About Corre...](https://freedium.cfd/https://medium.com/p/a3735728dc31) | [information-security](https://medium.com/feed/tag/information-security) |  | Yes |
+| Thu, 16 Oct 2025 17:38:14 GMT | [Business-Email Policy & OTP Bypass](https://freedium.cfd/https://medium.com/p/015bd25322d8) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 16:25:21 GMT | [️ jsrip — Automated JavaScript Ripper & Analyzer for Bug Hunt...](https://freedium.cfd/https://medium.com/p/7e57d72a858b) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 13:06:48 GMT | [Windows: File and Keylogging](https://freedium.cfd/https://medium.com/p/39990cd8ef0d) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 10:08:05 GMT | [How to Find Auth Bypasses in Under 30 Minutes](https://freedium.cfd/https://medium.com/p/11bf6a4f33df) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 08:02:20 GMT | [How to Think Like an Attacker: A Guide to Business Logic Flaws](https://freedium.cfd/https://medium.com/p/0218a2b778d0) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 04:52:06 GMT | [Pivoting](https://freedium.cfd/https://medium.com/p/5e093e13aeb8) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 13:52:15 GMT | [Mastering Secret Hunting: Step-by-Step Guide to Grep & Git in Cod...](https://freedium.cfd/https://medium.com/p/f3e3a3390337) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 07:28:17 GMT | [Pre-Engagement Phases in Penetration Testing (Pentester, Manageme...](https://freedium.cfd/https://medium.com/p/50ca1a26ceec) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 06:12:16 GMT | [How to start Web VAPT for Beginners️](https://freedium.cfd/https://medium.com/p/1f7194c8f48f) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Thu, 16 Oct 2025 04:51:16 GMT | [Fixing Exploits](https://freedium.cfd/https://medium.com/p/9a48d74885a2) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
