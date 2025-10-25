@@ -7,6 +7,7 @@ Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
@@ -17,8 +18,6 @@ Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
@@ -63,13 +62,22 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 25 Oct 2025 10:04:49 GMT | [How I Made ChatGPT My Bug Hunting Intern (And It Found Stuff I’...](https://freedium.cfd/https://medium.com/p/e86a44c1f2ba) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes | Yes |
-| Sat, 25 Oct 2025 08:38:39 GMT | [Recon Wins Again: Uncovering a Billing Portal Leak Through Waybac...](https://freedium.cfd/https://medium.com/p/c7301e815fc5) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  | Yes |
-| Sat, 25 Oct 2025 09:28:12 GMT | [How a Single “What If” Can Find You a Bug](https://freedium.cfd/https://medium.com/p/665b96c1e909) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  | Yes |
-| Sat, 25 Oct 2025 01:33:42 GMT | [Web Cache Deception: A Complete Beginner to Advanced Guide](https://freedium.cfd/https://medium.com/p/94cf851cd89f) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  | Yes |
-| Fri, 24 Oct 2025 15:37:35 GMT | [My First Bug Bounty: Critical Account Deletion Vulnerability ](https://freedium.cfd/https://medium.com/p/cdfcedaea344) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  |  |
-| Fri, 24 Oct 2025 15:04:10 GMT | [ Mastering XSS on a Bug Bounty Platform: Finding, Understanding &...](https://freedium.cfd/https://medium.com/p/7a6693284091) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  |  |
-| Fri, 24 Oct 2025 08:35:45 GMT | [Know Your Bug — How to Report Like a Pro (From 50 Reports)](https://freedium.cfd/https://medium.com/p/9a96d66e346f) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  |  |
-| Fri, 24 Oct 2025 08:01:51 GMT | [Bug Bounty Edge: Find Exposed Credentials Before Recon](https://freedium.cfd/https://medium.com/p/b2852a0db53c) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  |  |
-| Fri, 24 Oct 2025 03:35:49 GMT | [How I Accidentally Became the Company’s Unofficial File Clerk (...](https://freedium.cfd/https://medium.com/p/816e09bca109) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  |  |
-| Fri, 24 Oct 2025 11:02:16 GMT | [How Did I Hack a Website Just by Reading JS Files](https://freedium.cfd/https://medium.com/p/6d6a6a90aac1) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) |  |  |
+| Sat, 25 Oct 2025 10:15:22 GMT | [Top 10 Diploma Courses in Cyber Security After 12th](https://freedium.cfd/https://medium.com/p/4c22333b5ba4) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sat, 25 Oct 2025 06:10:17 GMT | [The​ ROI of‍ Le‌arning Ethic‌al Hac​ki‍ng — Is ...](https://freedium.cfd/https://medium.com/p/3c9ed5fdc48a) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sat, 25 Oct 2025 04:09:56 GMT | [ Finished My Wireshark Journey!](https://freedium.cfd/https://medium.com/p/9cbca0e0c98d) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sat, 25 Oct 2025 01:33:56 GMT | [How to Use OSINT to Strengthen Your Personal Digital Security](https://freedium.cfd/https://medium.com/p/81d3c9d1d5ae) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sat, 25 Oct 2025 05:52:12 GMT | [Wha⁠t Recruiters⁠ L⁠ook for in Ethical Hackers — Insi...](https://freedium.cfd/https://medium.com/p/6ad254387e7d) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sat, 25 Oct 2025 06:52:05 GMT | [Try-Hack-Me challenge walkthrough Wonderland — Medium CTF](https://freedium.cfd/https://medium.com/p/d4e86ba9826a) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Sat, 25 Oct 2025 06:04:02 GMT | [Top 10 Influencers in Cyber Security on LinkedIn](https://freedium.cfd/https://medium.com/p/d366487dd033) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
+| Fri, 10 Oct 2025 14:21:53 GMT | [Finding XSS on a Real-World Bug Bounty Program](https://freedium.cfd/https://medium.com/p/d718335bcb30) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sun, 17 Aug 2025 19:26:05 GMT | [﷽](https://freedium.cfd/https://medium.com/p/b3205aa78fbb) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Tue, 12 Aug 2025 17:24:22 GMT | [How I Removed Other User`s Uploaded Images in a Few Clicks](https://freedium.cfd/https://medium.com/p/fdeb6355458b) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Tue, 15 Jul 2025 08:14:04 GMT | [Level Up Your Bounties: How to Choose the Best Bug Bounty Program...](https://freedium.cfd/https://medium.com/p/18cdaf61cdcb) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sun, 17 Aug 2025 17:58:45 GMT | [$$$ How I Exploited a Business Logic Flaw to Slash Product Prices...](https://freedium.cfd/https://medium.com/p/64cd1d445d17) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Fri, 24 Oct 2025 18:20:02 GMT | [siber güvenlikte nba (network behavior analysis)](https://freedium.cfd/https://medium.com/p/24e1ebf38c65) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes |  |
+| Thu, 02 Oct 2025 06:59:46 GMT | [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with...](https://freedium.cfd/https://medium.com/p/d150c5db0a92) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sun, 24 Aug 2025 20:18:55 GMT | [How I found an Account Lockout Vulnerability Without Any Tools](https://freedium.cfd/https://medium.com/p/f52cbcd58730) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Wed, 16 Jul 2025 13:50:36 GMT | [Bug Bounties, Broken Promises](https://freedium.cfd/https://medium.com/p/a19557db0aaa) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Fri, 11 Jul 2025 07:49:47 GMT | [Platform Showdown: The Ultimate Guide to Choosing Your Bug Bounty...](https://freedium.cfd/https://medium.com/p/64ea085ae800) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Thu, 09 Oct 2025 18:33:05 GMT | [0-click Account Takeover via Punycode](https://freedium.cfd/https://medium.com/p/39b9a5cfbfb1) | [bug-bounty-program](https://medium.com/feed/tag/bug-bounty-program) | Yes |  |
+| Sat, 25 Oct 2025 09:28:12 GMT | [How a Single “What If” Can Find You a Bug](https://freedium.cfd/https://medium.com/p/665b96c1e909) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) |  | Yes |
