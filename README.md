@@ -9,7 +9,6 @@ Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
@@ -64,3 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
+| Mon, 27 Oct 2025 22:12:13 GMT | [Exfiltrating information through Telegram](https://freedium.cfd/https://medium.com/p/f1f9ec9204f5) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes | Yes |
+| Mon, 27 Oct 2025 22:00:38 GMT | [TryHackMe Basic Pentesting Walkthrough](https://freedium.cfd/https://medium.com/p/5a9e95113b72) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes | Yes |
+| Mon, 27 Oct 2025 17:30:23 GMT | [LFI to ATO (Universal )](https://freedium.cfd/https://medium.com/p/71e3788d173c) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes | Yes |
+| Mon, 27 Oct 2025 13:31:52 GMT | [Twenty-Seven Minutes to Domain Admin: Watching an AI Agent Master...](https://freedium.cfd/https://medium.com/p/2e2008dd59fa) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes | Yes |
+| Mon, 27 Oct 2025 10:02:05 GMT | [DockerLabs Writeup — DockerLabs (Spanish)](https://freedium.cfd/https://medium.com/p/36883d063513) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes | Yes |
+| Mon, 27 Oct 2025 07:07:44 GMT | [Blocky \| HTB Walkthrough](https://freedium.cfd/https://medium.com/p/21d494f3ab72) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes | Yes |
+| Sun, 26 Oct 2025 14:02:20 GMT | [The Assessor’s Gambit: A Deep Dive into White, Gray, and Black ...](https://freedium.cfd/https://medium.com/p/5de7c7cf42aa) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes |  |
+| Sun, 26 Oct 2025 20:53:24 GMT | [Insecure Task Manager: AI Chatbot Exploitation Lab](https://freedium.cfd/https://medium.com/p/e7cabfd2a43b) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes |  |
+| Sun, 26 Oct 2025 16:39:12 GMT | [Post-Exploitation with Mimikatz: What You Need To Know](https://freedium.cfd/https://medium.com/p/c7a93c9ca7ce) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes |  |
+| Sun, 26 Oct 2025 16:13:24 GMT | [Pentesting Firebase](https://freedium.cfd/https://medium.com/p/f723fd510dce) | [pentesting](https://medium.com/feed/tag/pentesting) | Yes |  |
