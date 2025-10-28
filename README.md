@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,11 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Tue, 28 Oct 2025 13:16:54 GMT | [How a Simple Logic Flaw Can Unlock Private User Data](https://freedium.cfd/https://medium.com/p/19788156c270) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Tue, 28 Oct 2025 13:14:13 GMT | [Hardening Against Path Traversal: Breaking the Cyber Chain from D...](https://freedium.cfd/https://medium.com/p/d91bbe0abd3b) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Tue, 28 Oct 2025 12:23:26 GMT | [C{api}tal walkthrough.](https://freedium.cfd/https://medium.com/p/999f4ce8597e) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Tue, 28 Oct 2025 11:47:10 GMT | [How I Turned Glitches Into Rent Money: A Year in Bug Bounties](https://freedium.cfd/https://medium.com/p/6b10a5d98f90) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Tue, 28 Oct 2025 11:00:37 GMT | [From One to Many — The Forbidden Playbook for Scaling a Sin...](https://freedium.cfd/https://medium.com/p/c85478aeb6ab) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Tue, 28 Oct 2025 06:34:13 GMT | [Understanding Software and Data Integrity Failures in the Real Wo...](https://freedium.cfd/https://medium.com/p/cca3b5096469) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Tue, 28 Oct 2025 06:15:15 GMT | [The Hidden Risk in AI: Context Switching Attacks](https://freedium.cfd/https://medium.com/p/beb77c3526f2) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Tue, 28 Oct 2025 04:21:20 GMT | [How Hackers Use ChatGPT — The Dark and Bright Sides of AI](https://freedium.cfd/https://medium.com/p/f8ab73b682f5) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
