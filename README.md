@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Thu, 30 Oct 2025 02:07:17 GMT | [My Journey Into Cybersecurity: The Story of Haruki Kira](https://freedium.cfd/https://medium.com/p/6406c1c70e47) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 00:32:19 GMT | [☕ When a REST Route Spills the Beans: Finding an Author-enumera...](https://freedium.cfd/https://medium.com/p/ce0acde23653) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Wed, 29 Oct 2025 20:20:41 GMT | [Hacking APIs: Cache Poisoning and Deception Attacks](https://freedium.cfd/https://medium.com/p/19527e2d7e6e) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Wed, 29 Oct 2025 16:38:51 GMT | [How I Became the Digital Spider-Man: Swinging Through Every Secur...](https://freedium.cfd/https://medium.com/p/7882e394832b) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Wed, 29 Oct 2025 13:06:50 GMT | [From a Simple IDOR to a Major Security Finding](https://freedium.cfd/https://medium.com/p/6386077e4b8d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Wed, 29 Oct 2025 20:44:43 GMT | [Ghost HTTP Methods: How HTTP Verb Mutation Bypasses Modern WAFs a...](https://freedium.cfd/https://medium.com/p/32b66cd392ca) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Wed, 29 Oct 2025 09:17:51 GMT | [So… I Could Control the OTP ‍♂️](https://freedium.cfd/https://medium.com/p/503ba61997ff) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Wed, 29 Oct 2025 18:57:14 GMT | [Automation Will Fail You: The Harsh Truth Every Bug Bounty Hunter...](https://freedium.cfd/https://medium.com/p/ad02cbfc7bda) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Wed, 29 Oct 2025 18:18:31 GMT | [The Cat-and-Mouse Game of a Cloud Metadata SSRF Vulnerability](https://freedium.cfd/https://medium.com/p/6efbb26e216a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Wed, 29 Oct 2025 12:17:18 GMT | [ Web Cache Poisoning — Part 1: Understanding the Beast](https://freedium.cfd/https://medium.com/p/d303f1741e48) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
