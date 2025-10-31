@@ -2,6 +2,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 31 Oct 2025 07:12:11 GMT | [Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tact...](https://freedium.cfd/https://medium.com/p/cd2112ef944a) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 18:39:11 GMT | [How I Found a Hidden Data Leak and Won a Bounty — The Pract...](https://freedium.cfd/https://medium.com/p/fafba9fc6266) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 11:14:58 GMT | [Starting My eJPT Journey: A New Chapter in My Cybersecurity Path](https://freedium.cfd/https://medium.com/p/c15a2c8e8f4b) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 09:23:04 GMT | [\[HackTheBox x VulnLab Write-up\] Slonik (NFS Share, PostgresSQL,...](https://freedium.cfd/https://medium.com/p/906664eb1912) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 09:20:18 GMT | [\[HackTheBox x VulnLab Write-up\] Forgotten (Limesurvey RCE, dock...](https://freedium.cfd/https://medium.com/p/2a96e4d4ce44) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 05:50:10 GMT | [MCP and Agentic AI: Old Problems in a New Wrapper](https://freedium.cfd/https://medium.com/p/55923c4e22f7) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 20:42:04 GMT | [How a Lab Box Taught Me the Real-World Cost of Misconfiguration](https://freedium.cfd/https://medium.com/p/dbf80940a190) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 15:17:39 GMT | [“The $12,500 GraphQL Glitch That Exposed HackerOne’s Own Hack...](https://freedium.cfd/https://medium.com/p/40de41150f64) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 10:39:59 GMT | [When Your Automated Tests Become Your Worst Nightmare](https://freedium.cfd/https://medium.com/p/0c21e0e3c6db) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
-| Fri, 31 Oct 2025 09:19:55 GMT | [\[HackTheBox x VulnLab Write-up\] RetroTwo (Exploting AD of Windo...](https://freedium.cfd/https://medium.com/p/bf0f260833c0) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
