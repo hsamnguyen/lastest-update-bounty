@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -5,7 +6,6 @@ Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML synt
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 31 Oct 2025 03:01:52 GMT | [All About Recon — Bug Bounty](https://freedium.cfd/https://medium.com/p/2ec869fcbe45) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 31 Oct 2025 02:39:08 GMT | [ Web Cache Poisoning — Part 2: Weaponizing Headers & URL Di...](https://freedium.cfd/https://medium.com/p/bbb7b2c0159a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 31 Oct 2025 01:55:46 GMT | [When Error Messages Leak More Than Logs: ORMs, Frameworks, and th...](https://freedium.cfd/https://medium.com/p/cfb336ce1117) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 31 Oct 2025 00:02:08 GMT | [Guía Completa de RustScan: Escaneo de Puertos Ultrarrápido](https://freedium.cfd/https://medium.com/p/da6ab7b7fed7) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 31 Oct 2025 07:12:11 GMT | [Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tact...](https://freedium.cfd/https://medium.com/p/cd2112ef944a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 31 Oct 2025 07:05:49 GMT | [⚙️ Remote Code Execution in GitLab — The Tale of a Rogu...](https://freedium.cfd/https://medium.com/p/660ec866f07c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 31 Oct 2025 05:40:56 GMT | [At Rock Bottom, I Found My Way Back To Cybersecurity](https://freedium.cfd/https://medium.com/p/4068aed6bb34) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 21:17:05 GMT | [Hacking APIs: HTTP Parameter Pollution](https://freedium.cfd/https://medium.com/p/fba389e55ada) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Thu, 30 Oct 2025 17:47:06 GMT | [How I Made ChatGPT My Personal Hacking Assistant (And Broke Their...](https://freedium.cfd/https://medium.com/p/ee37d4a725c2) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Thu, 30 Oct 2025 17:19:41 GMT | [Deep Shadow Wings: Powerful Web Recon — Simple, Fast, Effec...](https://freedium.cfd/https://medium.com/p/305648621512) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Thu, 30 Oct 2025 15:22:20 GMT | [How Swagger UI Can Accidentally Expose Your API](https://freedium.cfd/https://medium.com/p/2bf02c2cb2ba) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Thu, 30 Oct 2025 10:45:33 GMT | [HTTP requests & responses in web security](https://freedium.cfd/https://medium.com/p/5ce0c8012c03) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Thu, 30 Oct 2025 00:11:52 GMT | [A developer’s honest take on how SSL truly keeps your web apps�...](https://freedium.cfd/https://medium.com/p/8bd2ad288ec5) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Wed, 29 Oct 2025 17:30:13 GMT | [WordPress Security Best Practices You Can’t Afford to Ignore](https://freedium.cfd/https://medium.com/p/d0c0061ba9c2) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Wed, 29 Oct 2025 13:06:50 GMT | [From a Simple IDOR to a Major Security Finding](https://freedium.cfd/https://medium.com/p/6386077e4b8d) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Thu, 30 Oct 2025 15:38:40 GMT | [Web Cache Deception Attack – A Hidden Threat in Today’s Web A...](https://freedium.cfd/https://medium.com/p/9b7b4b37a3a0) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Thu, 30 Oct 2025 13:59:08 GMT | [Lab: SameSite Strict bypass via client-side redirect](https://freedium.cfd/https://medium.com/p/81fed4306b3e) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Thu, 30 Oct 2025 10:15:25 GMT | [The Story Behind Magento’s SessionReaper Vulnerability (CVE-202...](https://freedium.cfd/https://medium.com/p/745109fbebdb) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Thu, 30 Oct 2025 04:11:52 GMT | [SQL Injection: A Comprehensive Guide to Types,Impacts and Prevent...](https://freedium.cfd/https://medium.com/p/3ee552217d34) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
+| Wed, 29 Oct 2025 16:17:31 GMT | [How SSL Certificates Work in Web Applications—What I think?](https://freedium.cfd/https://medium.com/p/c275c6ce922d) | [web-security](https://medium.com/feed/tag/web-security) | Yes |  |
