@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 08 Nov 2025 08:41:17 GMT | [ntBug Bounty Hunting — Complete Guide (Part-133)](https://freedium.cfd/https://medium.com/p/b1afc9d20714) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 15:45:32 GMT | [When the Program Wins and the Researcher Loses: The Subtle Scams ...](https://freedium.cfd/https://medium.com/p/e2e0f38d80e7) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 12:24:40 GMT | [Public Exposure of NASA FTP Credentials in CORAL Document (Resuel...](https://freedium.cfd/https://medium.com/p/860a339a0224) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 10:03:09 GMT | [Capture: A TryHackMe CTF writeup](https://freedium.cfd/https://medium.com/p/4a5404600120) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 08:43:09 GMT | [Bug BouBug Bounty Hunting — Complete Guide (Part-134)](https://freedium.cfd/https://medium.com/p/8f46c465f77c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 07:36:50 GMT | [The Ultimate Guide to Smart Contract Pentesting](https://freedium.cfd/https://medium.com/p/34ce86ee0412) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 16:23:35 GMT | [How I Got Access To All My Friend’s Data](https://freedium.cfd/https://medium.com/p/a81d50a861fd) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 13:05:34 GMT | [How I Mastered Web Proxies on Hack The Box Academy](https://freedium.cfd/https://medium.com/p/312e4b07ea73) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 08:39:03 GMT | [Bug Bounty Hunting — Complete Guide (Part-132)](https://freedium.cfd/https://medium.com/p/a69ed59bf331) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 08 Nov 2025 08:27:57 GMT | [ OWASP Top 10 (2025 Release Candidate): What Every Security Profe...](https://freedium.cfd/https://medium.com/p/7d050a15f087) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
