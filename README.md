@@ -12,6 +12,7 @@ Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on lin
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Wed, 08 Oct 2025 03:53:34 GMT | [Beyond alert(1): The Real-World Dangers of Cross-Site Scripting (...](https://freedium.cfd/https://medium.com/p/1fdbc0a8d956) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Sun, 09 Nov 2025 09:11:22 GMT | [Reflected XSS into attribute with angle brackets HTML-encoded �...](https://freedium.cfd/https://medium.com/p/29903bb632e4) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Sat, 08 Nov 2025 07:59:11 GMT | [DOM XSS in innerHTML sink using source location.search — Po...](https://freedium.cfd/https://medium.com/p/fcff95c92215) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Thu, 06 Nov 2025 20:40:43 GMT | [How I Found 6 Reflected XSS — and Turned Them into Account ...](https://freedium.cfd/https://medium.com/p/3c0ace797b0a) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Thu, 06 Nov 2025 12:01:30 GMT | [Reflected XSS into HTML context with nothing encoded — Port...](https://freedium.cfd/https://medium.com/p/c47609642a34) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Tue, 04 Nov 2025 10:03:03 GMT | [Cybersecurity: How to protect your application from Cross-Site Sc...](https://freedium.cfd/https://medium.com/p/7f4523b8a9e2) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Wed, 22 Oct 2025 20:57:02 GMT | [XSS Attack Demonstration: Preventing XSS in Web Application Backe...](https://freedium.cfd/https://medium.com/p/b0da08a1ef98) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Sun, 12 Oct 2025 15:44:20 GMT | [Bypass CSRF Prevention with Cross Site Scripting (XSS)](https://freedium.cfd/https://medium.com/p/040162938477) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Sat, 08 Nov 2025 07:56:55 GMT | [DOM XSS in jQuery anchor href attribute —  Cross-site Scrip...](https://freedium.cfd/https://medium.com/p/61bfaedf7807) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
-| Tue, 04 Nov 2025 10:02:03 GMT | [Cybersecurity: How to protect your application from Cross-Site Sc...](https://freedium.cfd/https://medium.com/p/e05f082bd525) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) |  |  |
