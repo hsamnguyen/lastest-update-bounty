@@ -3,7 +3,6 @@ Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
@@ -64,3 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
+| Sun, 16 Nov 2025 04:54:52 GMT | [Small Business? Big Target. The Exploit That’s Quietly Going Vi...](https://freedium.cfd/https://medium.com/p/31ee5e304057) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 04:54:26 GMT | [Cicada— HTB Writeups](https://freedium.cfd/https://medium.com/p/c5c720e16a4c) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Sun, 16 Nov 2025 04:45:01 GMT | [The Teen Who Hacked the Pentagon](https://freedium.cfd/https://medium.com/p/f088906429bf) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Sat, 15 Nov 2025 22:17:49 GMT | [Building a Cybersecurity Home Lab — Part 3.2: Deploying and...](https://freedium.cfd/https://medium.com/p/fb3687b3b209) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
+| Sat, 15 Nov 2025 19:09:11 GMT | [BoardLight — Hack The Box (easy)](https://freedium.cfd/https://medium.com/p/24491328347e) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
+| Sat, 15 Nov 2025 17:48:43 GMT | [3 Recon Tricks + Advanced Pivots for Hidden Asset Discovery](https://freedium.cfd/https://medium.com/p/daccdaa9e074) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
+| Sat, 15 Nov 2025 21:16:39 GMT | [I Built a Simple Script That Found Hidden Race Conditions](https://freedium.cfd/https://medium.com/p/2a4c6366671c) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
+| Sat, 15 Nov 2025 22:26:11 GMT | [HackTheBox CDSA Experience](https://freedium.cfd/https://medium.com/p/dde710447e61) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
+| Sat, 15 Nov 2025 22:16:10 GMT | [Building a Cybersecurity Home Lab — Part 3.1: Configuring N...](https://freedium.cfd/https://medium.com/p/ee5decba8f47) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
+| Sat, 15 Nov 2025 22:04:05 GMT | [China Just Let AI Hack 30 Companies on Its Own, And It Worked](https://freedium.cfd/https://medium.com/p/1733d5df3756) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
